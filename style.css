@@ -438,37 +438,37 @@ span {
 
 /* Corrected file paths for gallery images */
 .gallery-container .img1 {
-    background: url('Pictures/1.jpg') no-repeat;
+    background: url('1.jpg') no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery-container .img2 {
-    background: url('Pictures/2.webp') no-repeat;
+    background: url('2.webp') no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery-container .img3 {
-    background: url('Pictures/3.webp') no-repeat;
+    background: url('3.webp') no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery-container .img4 {
-    background: url('Pictures/4.jpeg') no-repeat;
+    background: url('4.jpeg') no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery-container .img5 {
-    background: url('Pictures/Mirror.webp') no-repeat;
+    background: url('Mirror.webp') no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery-container .img6 {
-    background: url('Pictures/6.webp') no-repeat; /* Removed extra spaces */
+    background: url('6.webp') no-repeat; /* Removed extra spaces */
     background-position: center;
     background-size: cover;
 }
